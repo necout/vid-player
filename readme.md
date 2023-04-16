@@ -8,7 +8,7 @@ To use the program, simply run the `video_player.py` script and select a video f
 
 ### ⚠️ Prerequisites
 
-The program requires FFplay, which is included in this repository alongside FFmpeg and FFprobe. If it isn't there, you should install it or put the executables in the directory of the program.
+The program requires FFplay, which is included in this repository alongside FFmpeg and FFprobe. You should install it or put the executables in the directory of the program.
 
 - [FFmpeg](https://ffmpeg.org/)
 
